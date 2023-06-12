@@ -2,12 +2,8 @@
 tags:
   - administration
   - user-management
-  - local-user-management
+  - idm-synchronization
 ---
-
-## Local User Management
-
-In this document we cover managing people in the Jans Server's LDAP Directory and Jans TUI.
 
 ## Have questions in the meantime?
 
